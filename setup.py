@@ -1,3 +1,5 @@
+from setuptools import setup
+
 setup(
     name='print_time',
     version='1',
